@@ -1,4 +1,4 @@
-// UMBC - CMSC 341 - Fall 2024 - Proj0
+// UMBC - CMSC 341 - Summer 2026 - Proj0
 #ifndef SOLITAIRE_H
 #define SOLITAIRE_H
 #include <iostream>
